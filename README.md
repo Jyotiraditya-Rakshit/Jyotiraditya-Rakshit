@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Jyotiraditya Rakshit
+My Name is Jyotiraditya Rakshit <br>
 Currently Studying in Dayananda Sagar University 2nd year.
 LinkeDin Profile : https://www.linkedin.com/in/jyotiraditya-rakshit-10a88a2a3/
 
